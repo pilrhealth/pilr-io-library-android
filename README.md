@@ -1,21 +1,14 @@
-# lib-pilrio-android
 ## Introduction 
-The Android library for interfacing with the PiLR platform, as well as related data and configuration functions.
+An Android library for interfacing with the PiLR platform, and public API methods.
 
-lib-pilrio-android minimum sdk version is 8.
+The minimum sdk version is 8.
 
 ## Usage
-
-- Import [lib-pilrio-android](https://github.com/MeiResearchLtd/lib-pilrio-android);
-
 - Add the library to your project;
-
-- If you need an example how to use lib-pilrio-android, import this [sample project](https://github.com/MeiResearchLtd/pilr-sampleclient-android);
+- If you need an example how to use the library, a sample client app that collects location data and demonstrates the library functions can be found [here](https://github.com/pilrhealth/pilr-sample-app-android);
 
 ## License
-
-TBD.
+GPL v2.  See the LICENSE file.
 
 ## Additional Information
-
-If you want to know more about PiLR API, access [PiLR API doc](https://github.com/MeiResearchLtd/s4r-general/wiki/impl_api-security) and [PiLR API response samples](https://github.com/MeiResearchLtd/s4r-general/wiki/devguide_rest-api).
+If you want to know more about the PiLR platform, checkout the developer wiki pages [here](https://github.com/pilrhealth/developer/wiki), or for information specific to the PiLR API and mobile apps, go [here](https://github.com/pilrhealth/developer/wiki/Mobile-App-Integration).
